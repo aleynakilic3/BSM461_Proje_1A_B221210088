@@ -1,0 +1,6 @@
+bicim,dosya_sayisi,boyut_bayt,boyut_mb,json_gore_oran_yuzde
+Ham JSONL,7,38439690,36.659,100.0
+Parquet (Snappy),56,4901073,4.674,12.75
+Parquet (Zstd),56,3579188,3.413,9.31
+Parquet (Gzip),56,3603376,3.436,9.37
+Delta Lake (Parquet),57,4903278,4.676,12.76
